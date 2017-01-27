@@ -3,4 +3,4 @@ applications:
 - name: "vikas-boot06"
   memory: 512M
   buildpack: https://github.com/cloudfoundry/java-buildpack.git
-  path: /target/lab-1-boot-solution-1.jar
+  path: target/lab-1-boot-solution-1.jar
